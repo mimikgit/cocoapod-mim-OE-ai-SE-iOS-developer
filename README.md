@@ -1,20 +1,20 @@
-# ``mimik Client Library``
+# mimik Client Library
 
-**mimik Client Library** provides a programmatic interface for the mim OE Runtime (formerly known as edgeEngine), enabling its startup and integration into iOS projects.
+The **mimik Client Library** provides a programmatic interface for the mim OE Runtime (formerly edgeEngine), enabling its integration into iOS projects.
 
 ## Overview
 
-The purpose of the **mimik Client Library** is to provide a programmatic interface for working with the mim OE Runtime (formerly known as edgeEngine), accessing information about mobile device clusters, using on-device lightweight RESTful API microservices, and optionally integrating with mimik AI components.
+The **mimik Client Library** enables developers to interact with the mim OE Runtime (formerly known as edgeEngine), providing access to mobile device clusters, on-device RESTful API microservices, and optional integration with mimik AI components.
 
-These components provide various APIs that help developers with core operations, such as setting up the mim OE Runtime (formerly known as edgeEngine), authenticating developers, deploying edge microservices, and optionally integrating with [mimik ai](https://devdocs.mimik.com/tutorials/02-submenu/02-submenu/01-index).
+It offers APIs for setting up the runtime, authenticating developers, deploying edge microservices, integrating with [mimik ai](https://devdocs.mimik.com/tutorials/02-submenu/02-submenu/01-index) and more.
 
 ## mimik Client Library cocoapods
 
-Bundle configurations: developers have the option to choose from new bundling combinations for more tailored deployment: with or without AI Runtime. Integrate mim OE into your project with the choice of including or omitting the AI runtime, based on your application’s needs.
+Bundle configurations: Developers can choose from new bundling options for more tailored deployments, with the flexibility to include or exclude the AI Runtime. Integrate mim OE into your project based on your application’s needs, selecting whether to include the AI Runtime as part of the integration or not.
 
 * [EdgeCore](https://github.com/mimikgit/cocoapod-EdgeCore) (required)
 * [mim-OE-ai-SE-iOS-developer](https://github.com/mimikgit/cocoapod-mim-OE-ai-SE-iOS-developer) (with AI Runtime)
-* [mim-OE-SE-iOS-developer](https://github.com/mimikgit/cocoapod-mim-OE-SE-iOS-developer) (without AI)
+* [mim-OE-SE-iOS-developer](https://github.com/mimikgit/cocoapod-mim-OE-SE-iOS-developer) (no AI)
 * [EdgeService](https://github.com/mimikgit/cocoapod-EdgeService) (optional)
 
 Generally speaking, developers only need to add the **`mim-OE-ai-SE-iOS-developer`** and **EdgeCore** cocoapods to their projects.
@@ -56,7 +56,6 @@ end
 post_install do |installer|
   installer.pods_project.targets.each do |target|
     target.build_configurations.each do |config|
-      config.build_settings['ENABLE_BITCODE'] = 'NO'
       config.build_settings['VALID_ARCHS'] = '$(ARCHS_STANDARD_64_BIT)'
       config.build_settings['IPHONEOS_DEPLOYMENT_TARGET'] = '16.0'
       config.build_settings['BUILD_LIBRARY_FOR_DISTRIBUTION'] = 'YES'
@@ -65,18 +64,18 @@ post_install do |installer|
 end
 ```
 
-> **_NOTE:_** Developers can get their **developer edge license** for initializing [mim-OE-ai-SE-iOS-developer](https://github.com/mimikgit/cocoapod-mimOE-SE-iOS-developer) at the [mimik developer console](https://developer.mimik.com/console).
+> **_NOTE:_** Developers can get their **mim OE (Edge)** for initializing [mim-OE-ai-SE-iOS-developer](https://github.com/mimikgit/cocoapod-mim-OE-ai-SE-iOS-developer) at the [mimik developer console](https://developer.mimik.com/console).
 
-> **_NOTE:_** Enterprise project developers should request their **enterprise edge license** from [mimik support](https://developer.mimik.com/support/).
+> **_NOTE:_** Enterprise project developers can request an **enterprise mim OE (Edge) license** from [mimik support](https://developer.mimik.com/support/).
 
 
 ## Documentation
 
-`EdgeCore/EdgeClient` API reference documentation can be found  [here](https://mimikgit.github.io/cocoapod-EdgeCore/documentation/edgecore/edgeclient). Alternatively a docc archive file can be downloaded as a [zip file](https://github.com/mimikgit/cocoapod-EdgeCore/tree/main/EdgeCore.doccarchive.zip) and opened locally in Xcode.
+`EdgeCore/EdgeClient` API reference documentation is available [here](https://mimikgit.github.io/cocoapod-EdgeCore/documentation/edgecore/edgeclient), as well as in Xcode, where it is included as built-in documentation for all methods and structs.
 
-`EdgeEngineClient` platform protocol API reference documentation is [here](https://mimikgit.github.io/cocoapod-EdgeCore/documentation/edgecore/edgeengineclient).
+`EdgeEngineClient` protocol API reference documentation is accessible from [here](https://mimikgit.github.io/cocoapod-EdgeCore/documentation/edgecore/edgeengineclient).
 
-`EdgeService` API references are available [here](https://mimikgit.github.io/cocoapod-EdgeService/documentation/edgeservice/).
+`EdgeService/EdgeServiceClient` API reference documentation can be found [here](https://mimikgit.github.io/cocoapod-EdgeService/documentation/edgeservice/).
 
 
 ## EdgeClient
@@ -132,10 +131,12 @@ end
 
 - ``EdgeClient/integrateAI(accessToken:apiKey:configUrl:model:downloadHandler:requestHandler:)``
 - ``EdgeClient/downloadAI(model:accessToken:apiKey:useCase:downloadHandler:requestHandler:)``
-- ``EdgeClient/askAIModel(id:accessToken:apiKey:question:useCase:streamHandler:requestHandler:)``
+- ``EdgeClient/chatAI(request:streamHandler:requestHandler:)``
+- ``EdgeClient/chatAI(request:requestHandler:)``
 - ``EdgeClient/aiModels(accessToken:apiKey:useCase:)``
 - ``EdgeClient/aiModel(id:accessToken:apiKey:useCase:)``
 - ``EdgeClient/deleteAIModel(id:accessToken:apiKey:useCase:)``
+- ``EdgeClient/warmUpAI(request:)``
 
 
 ## EdgeClient/Authorization/AccessToken
@@ -171,6 +172,8 @@ end
 - ``EdgeClient/Microservice/basePath()``
 - ``EdgeClient/Microservice/call(config:)``
 - ``EdgeClient/Microservice/call(config:type:)``
+- ``EdgeClient/Microservice/call(config:requestHandler:)``
+- ``EdgeClient/Microservice/call(config:type:requestHandler:)``
 - ``EdgeClient/Microservice/callStream(config:streamHandler:requestHandler:)``
 - ``EdgeClient/Microservice/callStream(config:type:streamHandler:requestHandler:)``
 - ``EdgeClient/Microservice/callStreamSSE(config:streamHandler:requestHandler:)``
@@ -233,7 +236,7 @@ end
     
 Provides mim OE (edgeEngine) controls and vendors the actual mim OE (edgeEngine) binary into the project.
 
-> **To enable EdgeEngineClient** protocol API in the project, add [EdgeEngineDeveloper](https://github.com/mimikgit/cocoapod-EdgeEngineDeveloper) or [EdgeEngine](https://github.com/mimikgit/cocoapod-EdgeEngine) to the `Podfile`.
+> **To enable EdgeEngineClient** protocol API in the project, add [mim-OE-ai-SE-iOS-developer](https://github.com/mimikgit/cocoapod-mim-OE-ai-SE-iOS-developer) to your `Podfile`.
 
 - ``EdgeEngineClient/startEdgeEngine(parameters:)``
 - ``EdgeEngineClient/stopEdgeEngine()``
@@ -267,6 +270,6 @@ More details about how the edgeEngine platform revolutionizes computing with the
 
 ## License
 
-Developers can get their developer edge license by following this [tutorial](https://devdocs.mimik.com/tutorials/01-submenu/02-submenu/03-index).
+Developers can get their mim OE (Edge) license for initializing [mim-OE-ai-SE-iOS-developer](https://github.com/mimikgit/cocoapod-mim-OE-ai-SE-iOS-developer) at the [mimik developer console](https://developer.mimik.com/console).
 
-For details about an enterprise edge license please contact [mimik support](https://mimik.com/contact-us/).
+For details about an enterprise mim OE (Edge) license please contact [mimik support](https://mimik.com/contact-us/).

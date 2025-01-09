@@ -26,11 +26,11 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		2z1fHJpU1qsDh3tyg+9TJQsFm80=
+		j0yFT410zfLQoXnGcyM3mZnjJGc=
 		</data>
 		<key>Modules/EdgeEngine.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		Nx14e2UC+XPUXUe4gsynyGhib6A=
+		0J+iYX1XpnhhzqgHYALYXg5ptmM=
 		</data>
 		<key>Modules/EdgeEngine.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
@@ -46,7 +46,7 @@
 		</data>
 		<key>Modules/EdgeEngine.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		N/aVUVzTTCCDgAaCSN6o94Vgcnc=
+		gbZ391I6V+TzfCD/TUSG6TJvFcc=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -98,7 +98,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			lTb3Yy0rzRL6doBW7x4KPIWGfZtSGUAYM0O5ZIz+PrU=
+			Iv3ITF51h7Gdmjb23h1ZJ0o69GT3tftZ/FBDFrkkbis=
 			</data>
 		</dict>
 		<key>Modules/EdgeEngine.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
@@ -126,7 +126,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			s5kDZeTX6efMzDNHrASWsOxoH72K2g3ozC6fvFz1MTg=
+			WDsHmoodnhwLOWGhCDCiDQZ73/fbKRYURq++Xr9Eu+w=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

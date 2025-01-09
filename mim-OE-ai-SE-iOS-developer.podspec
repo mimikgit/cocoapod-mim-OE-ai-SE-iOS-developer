@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
 
   s.name         = "mim-OE-ai-SE-iOS-developer"
-  s.version      = "5.8.0"
+  s.version      = "5.8.2"
   s.summary      = "mimik Client Library (AI, Developer)"
 
   s.description  = <<-DESC
@@ -33,7 +33,7 @@ These components provide various APIs that help developers with core operations,
 
   s.vendored_frameworks = "EdgeEngine.xcframework", "edge.framework"
 
-  s.dependency 'EdgeCore', '~> 5.8.0'
+  s.dependency 'EdgeCore', '~> 5.8.2'
 
   s.platform = 'ios', '16.0'
 end
