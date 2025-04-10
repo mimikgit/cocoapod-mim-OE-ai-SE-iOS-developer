@@ -1,16 +1,45 @@
 # mimik Client Library
 
-The **mimik Client Library** provides a programmatic interface for the mim OE Runtime (formerly edgeEngine), enabling its integration into iOS projects.
+The mimik Client Library provides a low-level, programmatic interface for interacting with the mim OE Runtime (formerly known as the edge engine). It enables direct control over runtime behavior and integration with decentralized edge-cloud workflows.
 
-## Overview
+## Quick Start
 
-The **mimik Client Library** enables developers to interact with the mim OE Runtime (formerly known as edgeEngine), providing access to mobile device clusters, on-device RESTful API microservices, and optional integration with mimik AI components.
+- **Onboarding Tutorial**  
+    Step-by-step setup and usage guide:  
+    [https://devdocs.mimik.com/tutorials/01-submenu/02-submenu/02-index](https://devdocs.mimik.com/tutorials/01-submenu/02-submenu/02-index)
 
-It offers APIs for setting up the runtime, authenticating developers, deploying edge microservices, integrating with [mimik ai](https://devdocs.mimik.com/tutorials/02-submenu/02-submenu/01-index) and more.
+- **API Documentation**  
+    Complete reference for available classes, methods, and usage patterns:  
+    [https://mimikgit.github.io/cocoapod-EdgeCore/documentation/edgecore/edgecore](https://mimikgit.github.io/cocoapod-EdgeCore/documentation/edgecore/edgecore)
+
+## Features
+
+The library exposes functionality to:
+
+- Initialize and configure the mim OE Runtime, including local runtime setup, configuration loading, and lifecycle management
+- Discover and interact with nodes in a Hybrid Edge Cloud cluster using built-in discovery and service registration APIs
+- Deploy and manage RESTful microservices on the edge node using a lightweight container abstraction
+- Authenticate and authorize developers and services using token-based flows (OAuth2, JWT)
+- Integrate with on-device AI runtimes, allowing local invocation of Vision and Language models without requiring cloud access
+
+## Runtime Characteristics
+
+- Written for resource-constrained environments (e.g., ARM-based devices, IoT gateways)
+- Supports offline-first and peer-to-peer communication paradigms
+- Built for decentralized orchestration across edge nodes in distributed environments
+
+## Use Case Examples
+
+- Register and expose a microservice on a local node  
+- Query cluster topology and fetch metadata from peer nodes  
+- Secure communication between services using tokens  
+- Launch a local AI model for image or text inference
+
+This library is intended for developers building distributed edge-native apps where network reliability, low-latency processing, and on-device compute are critical.
 
 ## mimik Client Library cocoapods
 
-Bundle configurations: Developers can choose from new bundling options for more tailored deployments, with the flexibility to include or exclude the AI Runtime. Integrate mim OE into your project based on your application’s needs, selecting whether to include the AI Runtime as part of the integration or not.
+**Bundle Configurations:** Developers now have more control over their deployments with new bundling options. You can choose to integrate the **mim OE Runtime** into your project based on your specific needs. This includes the flexibility to either include or exclude the AI Runtime, depending on whether your application requires it.
 
 * [EdgeCore](https://github.com/mimikgit/cocoapod-EdgeCore) (required)
 * [mim-OE-ai-SE-iOS-developer](https://github.com/mimikgit/cocoapod-mim-OE-ai-SE-iOS-developer) (with AI Runtime)

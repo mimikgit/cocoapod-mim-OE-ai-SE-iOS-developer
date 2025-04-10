@@ -733,6 +733,146 @@
       "value": "\"customConfiguration\""
     },
     {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-mimoe\/EdgeEngine\/Internal\/EdgeClient+License.swift",
+      "kind": "StringLiteral",
+      "offset": 542,
+      "length": 75,
+      "value": "\"Stored edgeEngine license:<\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-mimoe\/EdgeEngine\/Internal\/EdgeClient+License.swift",
+      "kind": "IntegerLiteral",
+      "offset": 587,
+      "length": 2,
+      "value": "25"
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-mimoe\/EdgeEngine\/Internal\/EdgeClient+License.swift",
+      "kind": "StringLiteral",
+      "offset": 591,
+      "length": 3,
+      "value": "\"...\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-mimoe\/EdgeEngine\/Internal\/EdgeClient+License.swift",
+      "kind": "IntegerLiteral",
+      "offset": 611,
+      "length": 2,
+      "value": "25"
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-mimoe\/EdgeEngine\/Internal\/EdgeClient+License.swift",
+      "kind": "StringLiteral",
+      "offset": 615,
+      "length": 1,
+      "value": "\">\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-mimoe\/EdgeEngine\/Internal\/EdgeClient+License.swift",
+      "kind": "StringLiteral",
+      "offset": 1178,
+      "length": 28,
+      "value": "\"Removed edgeEngine license\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-mimoe\/EdgeEngine\/Internal\/EdgeClient+JsonRpcRequest.swift",
+      "kind": "StringLiteral",
+      "offset": 587,
+      "length": 5,
+      "value": "\"2.0\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-mimoe\/EdgeEngine\/Internal\/EdgeClient+JsonRpcRequest.swift",
+      "kind": "Array",
+      "offset": 672,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-mimoe\/EdgeEngine\/Internal\/EdgeClient+JsonRpcRequest.swift",
+      "kind": "StringLiteral",
+      "offset": 877,
+      "length": 13,
+      "value": "\"\/jsonrpc\/v1\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-mimoe\/EdgeEngine\/Internal\/EdgeClient+JsonRpcRequest.swift",
+      "kind": "StringLiteral",
+      "offset": 1022,
+      "length": 14,
+      "value": "\"(path error)\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-mimoe\/EdgeEngine\/Internal\/EdgeClient+JsonRpcRequest.swift",
+      "kind": "StringLiteral",
+      "offset": 1309,
+      "length": 8,
+      "value": "\"method\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-mimoe\/EdgeEngine\/Internal\/EdgeClient+JsonRpcRequest.swift",
+      "kind": "StringLiteral",
+      "offset": 1348,
+      "length": 9,
+      "value": "\"jsonrpc\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-mimoe\/EdgeEngine\/Internal\/EdgeClient+JsonRpcRequest.swift",
+      "kind": "StringLiteral",
+      "offset": 1385,
+      "length": 4,
+      "value": "\"id\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-mimoe\/EdgeEngine\/Internal\/EdgeClient+JsonRpcRequest.swift",
+      "kind": "StringLiteral",
+      "offset": 1412,
+      "length": 8,
+      "value": "\"params\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-mimoe\/EdgeEngine\/Internal\/EdgeClient+JsonRpcRequest.swift",
+      "kind": "FloatLiteral",
+      "offset": 1565,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-mimoe\/EdgeEngine\/Internal\/EdgeClient+JsonRpcRequest.swift",
+      "kind": "StringLiteral",
+      "offset": 1612,
+      "length": 6,
+      "value": "\"POST\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-mimoe\/EdgeEngine\/Internal\/EdgeClient+JsonRpcRequest.swift",
+      "kind": "StringLiteral",
+      "offset": 1647,
+      "length": 18,
+      "value": "\"application\/json\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-mimoe\/EdgeEngine\/Internal\/EdgeClient+JsonRpcRequest.swift",
+      "kind": "StringLiteral",
+      "offset": 1687,
+      "length": 14,
+      "value": "\"Content-Type\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-mimoe\/EdgeEngine\/Internal\/EdgeClient+JsonRpcRequest.swift",
+      "kind": "StringLiteral",
+      "offset": 1911,
+      "length": 7,
+      "value": "\"error\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-mimoe\/EdgeEngine\/Internal\/EdgeClient+JsonRpcRequest.swift",
+      "kind": "StringLiteral",
+      "offset": 2382,
+      "length": 21,
+      "value": "\"response json error\""
+    },
+    {
       "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-mimoe\/EdgeEngine\/Internal\/EdgeClient.StartupParameters+Internal.swift",
       "kind": "StringLiteral",
       "offset": 269,
@@ -747,6 +887,69 @@
       "value": "\"customStartupParameters\""
     },
     {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-mimoe\/EdgeEngine\/Internal\/EdgeClient.StartupParameters+Internal.swift",
+      "kind": "StringLiteral",
+      "offset": 736,
+      "length": 61,
+      "value": "\"Stored MIMIKStartupParameters data not found, returning nil\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-mimoe\/EdgeEngine\/Internal\/EdgeClient.StartupParameters+Internal.swift",
+      "kind": "StringLiteral",
+      "offset": 1089,
+      "length": 82,
+      "value": "\"Error decoding stored MIMIKStartupParameters data, returning default set instead\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-mimoe\/EdgeEngine\/Internal\/EdgeClient.StartupParameters+Internal.swift",
+      "kind": "StringLiteral",
+      "offset": 1704,
+      "length": 7,
+      "value": "\"Error\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-mimoe\/EdgeEngine\/Internal\/EdgeClient.StartupParameters+Internal.swift",
+      "kind": "StringLiteral",
+      "offset": 2050,
+      "length": 39,
+      "value": "\"Removed edgeEngine startup parameters\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-mimoe\/EdgeEngine\/Internal\/EdgeClient+EdgeReset.swift",
+      "kind": "BooleanLiteral",
+      "offset": 392,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-mimoe\/EdgeEngine\/Internal\/EdgeClient+EdgeReset.swift",
+      "kind": "StringLiteral",
+      "offset": 481,
+      "length": 46,
+      "value": "\"Unable to erase edgeEngine working directory\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-mimoe\/EdgeEngine\/Internal\/EdgeClient+EdgeReset.swift",
+      "kind": "StringLiteral",
+      "offset": 594,
+      "length": 46,
+      "value": "\"Unable to erase edgeEngine working directory\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-mimoe\/EdgeEngine\/Internal\/EdgeClient+EdgeReset.swift",
+      "kind": "IntegerLiteral",
+      "offset": 648,
+      "length": 3,
+      "value": "500"
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-mimoe\/EdgeEngine\/Internal\/EdgeClient+EdgeReset.swift",
+      "kind": "StringLiteral",
+      "offset": 738,
+      "length": 37,
+      "value": "\"Erased edgeEngine working directory\""
+    },
+    {
       "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-mimoe\/EdgeEngine\/Internal\/EdgeClient+EdgeStart.swift",
       "kind": "BooleanLiteral",
       "offset": 289,
@@ -755,10 +958,388 @@
     },
     {
       "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-mimoe\/EdgeEngine\/Internal\/EdgeClient+EdgeStart.swift",
+      "kind": "StringLiteral",
+      "offset": 817,
+      "length": 34,
+      "value": "\"External edgeEngine is activated\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-mimoe\/EdgeEngine\/Internal\/EdgeClient+EdgeStart.swift",
+      "kind": "StringLiteral",
+      "offset": 918,
+      "length": 34,
+      "value": "\"External edgeEngine is activated\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-mimoe\/EdgeEngine\/Internal\/EdgeClient+EdgeStart.swift",
+      "kind": "IntegerLiteral",
+      "offset": 960,
+      "length": 2,
+      "value": "-1"
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-mimoe\/EdgeEngine\/Internal\/EdgeClient+EdgeStart.swift",
+      "kind": "StringLiteral",
+      "offset": 1106,
+      "length": 43,
+      "value": "\"edgeEngine startup is already in progress\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-mimoe\/EdgeEngine\/Internal\/EdgeClient+EdgeStart.swift",
+      "kind": "StringLiteral",
+      "offset": 1216,
+      "length": 40,
+      "value": "\"edgeEngine startup already in progress\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-mimoe\/EdgeEngine\/Internal\/EdgeClient+EdgeStart.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1264,
+      "length": 2,
+      "value": "-2"
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-mimoe\/EdgeEngine\/Internal\/EdgeClient+EdgeStart.swift",
       "kind": "BooleanLiteral",
-      "offset": 3729,
+      "offset": 1330,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-mimoe\/EdgeEngine\/Internal\/EdgeClient+EdgeStart.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1388,
       "length": 5,
       "value": "false"
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-mimoe\/EdgeEngine\/Internal\/EdgeClient+EdgeStart.swift",
+      "kind": "StringLiteral",
+      "offset": 1532,
+      "length": 28,
+      "value": "\"edgeEngine already running\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-mimoe\/EdgeEngine\/Internal\/EdgeClient+EdgeStart.swift",
+      "kind": "StringLiteral",
+      "offset": 2016,
+      "length": 52,
+      "value": "\"getMe call error. Attempting to restart edgeEngine\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-mimoe\/EdgeEngine\/Internal\/EdgeClient+EdgeStart.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2260,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-mimoe\/EdgeEngine\/Internal\/EdgeClient+EdgeStart.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2269,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-mimoe\/EdgeEngine\/Internal\/EdgeClient+EdgeStart.swift",
+      "kind": "StringLiteral",
+      "offset": 2367,
+      "length": 26,
+      "value": "\"edgeEngine restart error\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-mimoe\/EdgeEngine\/Internal\/EdgeClient+EdgeStart.swift",
+      "kind": "StringLiteral",
+      "offset": 2554,
+      "length": 28,
+      "value": "\"edgeEngine restart success\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-mimoe\/EdgeEngine\/Internal\/EdgeClient+EdgeStart.swift",
+      "kind": "StringLiteral",
+      "offset": 2732,
+      "length": 21,
+      "value": "\".getMe call success\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-mimoe\/EdgeEngine\/Internal\/EdgeClient+EdgeStart.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2857,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-mimoe\/EdgeEngine\/Internal\/EdgeClient+EdgeStart.swift",
+      "kind": "BooleanLiteral",
+      "offset": 3051,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-mimoe\/EdgeEngine\/Internal\/EdgeClient+EdgeStart.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3087,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-mimoe\/EdgeEngine\/Internal\/EdgeClient+EdgeStart.swift",
+      "kind": "StringLiteral",
+      "offset": 3173,
+      "length": 28,
+      "value": "\"Unable to start edgeEngine\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-mimoe\/EdgeEngine\/Internal\/EdgeClient+EdgeStart.swift",
+      "kind": "StringLiteral",
+      "offset": 3268,
+      "length": 28,
+      "value": "\"Unable to start edgeEngine\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-mimoe\/EdgeEngine\/Internal\/EdgeClient+EdgeStart.swift",
+      "kind": "BooleanLiteral",
+      "offset": 3489,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-mimoe\/EdgeEngine\/Internal\/EdgeClient+EdgeStart.swift",
+      "kind": "StringLiteral",
+      "offset": 3656,
+      "length": 40,
+      "value": "\"edgeEngine startup already in progress\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-mimoe\/EdgeEngine\/Internal\/EdgeClient+EdgeStart.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3738,
+      "length": 2,
+      "value": "-1"
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-mimoe\/EdgeEngine\/Internal\/EdgeClient+EdgeStart.swift",
+      "kind": "BooleanLiteral",
+      "offset": 3802,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-mimoe\/EdgeEngine\/Internal\/EdgeClient+EdgeStart.swift",
+      "kind": "StringLiteral",
+      "offset": 4246,
+      "length": 35,
+      "value": "\"Unable to migrate existing nodeId\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-mimoe\/EdgeEngine\/Internal\/EdgeClient+EdgeStart.swift",
+      "kind": "BooleanLiteral",
+      "offset": 4358,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-mimoe\/EdgeEngine\/Internal\/EdgeClient+EdgeStart.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4383,
+      "length": 2,
+      "value": "-2"
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-mimoe\/EdgeEngine\/Internal\/EdgeClient+EdgeStart.swift",
+      "kind": "StringLiteral",
+      "offset": 4699,
+      "length": 55,
+      "value": "\"Unable to establish nodeId edgeEngineWorkingDirectory\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-mimoe\/EdgeEngine\/Internal\/EdgeClient+EdgeStart.swift",
+      "kind": "BooleanLiteral",
+      "offset": 4831,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-mimoe\/EdgeEngine\/Internal\/EdgeClient+EdgeStart.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4856,
+      "length": 2,
+      "value": "-3"
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-mimoe\/EdgeEngine\/Internal\/EdgeClient+EdgeStart.swift",
+      "kind": "StringLiteral",
+      "offset": 5268,
+      "length": 74,
+      "value": "\"Specified nodeName is an empty string, using default device name instead\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-mimoe\/EdgeEngine\/Internal\/EdgeClient+EdgeStart.swift",
+      "kind": "StringLiteral",
+      "offset": 5584,
+      "length": 54,
+      "value": "\"Effective startup parameters. \neffective node name:\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-mimoe\/EdgeEngine\/Internal\/EdgeClient+EdgeStart.swift",
+      "kind": "StringLiteral",
+      "offset": 5659,
+      "length": 33,
+      "value": "\"\neffective startup parameters:\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-mimoe\/EdgeEngine\/Internal\/EdgeClient+EdgeStart.swift",
+      "kind": "StringLiteral",
+      "offset": 5809,
+      "length": 32,
+      "value": "\"edgeEngine startup in progress\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-mimoe\/EdgeEngine\/Internal\/EdgeClient+EdgeStart.swift",
+      "kind": "StringLiteral",
+      "offset": 6254,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-mimoe\/EdgeEngine\/Internal\/EdgeClient+EdgeStart.swift",
+      "kind": "IntegerLiteral",
+      "offset": 6459,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-mimoe\/EdgeEngine\/Internal\/EdgeClient+EdgeStart.swift",
+      "kind": "StringLiteral",
+      "offset": 6520,
+      "length": 20,
+      "value": "\"edgeEngine startup\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-mimoe\/EdgeEngine\/Internal\/EdgeClient+EdgeStart.swift",
+      "kind": "IntegerLiteral",
+      "offset": 6557,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-mimoe\/EdgeEngine\/Internal\/EdgeClient+EdgeStart.swift",
+      "kind": "StringLiteral",
+      "offset": 6561,
+      "length": 12,
+      "value": "\"successful\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-mimoe\/EdgeEngine\/Internal\/EdgeClient+EdgeStart.swift",
+      "kind": "StringLiteral",
+      "offset": 6576,
+      "length": 7,
+      "value": "\"error\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-mimoe\/EdgeEngine\/Internal\/EdgeClient+EdgeStart.swift",
+      "kind": "BooleanLiteral",
+      "offset": 6656,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-mimoe\/EdgeEngine\/Internal\/EdgeClient+NodeId.swift",
+      "kind": "StringLiteral",
+      "offset": 829,
+      "length": 55,
+      "value": "\"Unable to establish edgeEngine nodeId lock file names\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-mimoe\/EdgeEngine\/Internal\/EdgeClient+NodeId.swift",
+      "kind": "StringLiteral",
+      "offset": 951,
+      "length": 54,
+      "value": "\"Unable to establish edgeEngine nodeId lock file name\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-mimoe\/EdgeEngine\/Internal\/EdgeClient+NodeId.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1013,
+      "length": 2,
+      "value": "-1"
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-mimoe\/EdgeEngine\/Internal\/EdgeClient+NodeId.swift",
+      "kind": "StringLiteral",
+      "offset": 1286,
+      "length": 55,
+      "value": "\"Unable to establish edgeEngine nodeId lock file names\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-mimoe\/EdgeEngine\/Internal\/EdgeClient+NodeId.swift",
+      "kind": "StringLiteral",
+      "offset": 1408,
+      "length": 58,
+      "value": "\"Unable to establish edgeEngine machine-id lock file name\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-mimoe\/EdgeEngine\/Internal\/EdgeClient+NodeId.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1474,
+      "length": 2,
+      "value": "-2"
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-mimoe\/EdgeEngine\/Internal\/EdgeClient+NodeId.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1569,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-mimoe\/EdgeEngine\/Internal\/EdgeClient+NodeId.swift",
+      "kind": "StringLiteral",
+      "offset": 1652,
+      "length": 77,
+      "value": "\"Client library managed node id will be migrated to edgeEngine managed value\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-mimoe\/EdgeEngine\/Internal\/EdgeClient+NodeId.swift",
+      "kind": "StringLiteral",
+      "offset": 2144,
+      "length": 41,
+      "value": "\"Migrated client library managed node id\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-mimoe\/EdgeEngine\/Internal\/EdgeClient+NodeId.swift",
+      "kind": "StringLiteral",
+      "offset": 2347,
+      "length": 50,
+      "value": "\"Unable to migrate client library managed node id\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-mimoe\/EdgeEngine\/Internal\/EdgeClient+NodeId.swift",
+      "kind": "StringLiteral",
+      "offset": 2468,
+      "length": 33,
+      "value": "\"Unable to move existing node id\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-mimoe\/EdgeEngine\/Internal\/EdgeClient+NodeId.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2509,
+      "length": 2,
+      "value": "-3"
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-mimoe\/EdgeEngine\/Internal\/EdgeClient+NodeId.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2541,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-mimoe\/EdgeEngine\/Internal\/EdgeClient+NodeId.swift",
+      "kind": "StringLiteral",
+      "offset": 3102,
+      "length": 50,
+      "value": "\"Unable to establish edgeEngine working directory\""
     },
     {
       "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-mimoe\/EdgeEngine\/Internal\/EdgeClient+EdgeStop.swift",
@@ -766,6 +1347,475 @@
       "offset": 276,
       "length": 5,
       "value": "false"
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-mimoe\/EdgeEngine\/Internal\/EdgeClient+EdgeStop.swift",
+      "kind": "BooleanLiteral",
+      "offset": 867,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-mimoe\/EdgeEngine\/Internal\/EdgeClient+EdgeStop.swift",
+      "kind": "StringLiteral",
+      "offset": 956,
+      "length": 33,
+      "value": "\"edgeEngine is already shut down\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-mimoe\/EdgeEngine\/Internal\/EdgeClient+EdgeStop.swift",
+      "kind": "StringLiteral",
+      "offset": 1182,
+      "length": 41,
+      "value": "\"edgeEngine shutdown already in progress\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-mimoe\/EdgeEngine\/Internal\/EdgeClient+EdgeStop.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1327,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-mimoe\/EdgeEngine\/Internal\/EdgeClient+EdgeStop.swift",
+      "kind": "StringLiteral",
+      "offset": 1405,
+      "length": 45,
+      "value": "\"Synchronous edgeEngine shutdown in progress\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-mimoe\/EdgeEngine\/Internal\/EdgeClient+EdgeStop.swift",
+      "kind": "StringLiteral",
+      "offset": 1594,
+      "length": 44,
+      "value": "\"Synchronous edgeEngine shutdown successful\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-mimoe\/EdgeEngine\/Internal\/EdgeClient+EdgeStop.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1713,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-mimoe\/EdgeEngine\/Internal\/EdgeClient+Platform.swift",
+      "kind": "StringLiteral",
+      "offset": 647,
+      "length": 74,
+      "value": "\"mimik Client Library is currently managed, registering for notifications\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-mimoe\/EdgeEngine\/Internal\/EdgeClient+Platform.swift",
+      "kind": "StringLiteral",
+      "offset": 904,
+      "length": 82,
+      "value": "\"mimik Client Library is currently NOT managed, NOT registering for notifications\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-mimoe\/EdgeEngine\/Internal\/EdgeClient+Background.swift",
+      "kind": "StringLiteral",
+      "offset": 1100,
+      "length": 32,
+      "value": "\"didEnterBackgroundNotification\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-mimoe\/EdgeEngine\/Internal\/EdgeClient+Background.swift",
+      "kind": "StringLiteral",
+      "offset": 1154,
+      "length": 21,
+      "value": "\"stopping edgeEngine\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-mimoe\/EdgeEngine\/Internal\/EdgeClient+Background.swift",
+      "kind": "StringLiteral",
+      "offset": 1474,
+      "length": 29,
+      "value": "\"didBecomeActiveNotification\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-mimoe\/EdgeEngine\/Internal\/EdgeClient+Background.swift",
+      "kind": "StringLiteral",
+      "offset": 1525,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-mimoe\/EdgeEngine\/Internal\/EdgeClient+Background.swift",
+      "kind": "StringLiteral",
+      "offset": 1713,
+      "length": 29,
+      "value": "\"didBecomeActiveNotification\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-mimoe\/EdgeEngine\/Internal\/EdgeClient+Background.swift",
+      "kind": "StringLiteral",
+      "offset": 1764,
+      "length": 37,
+      "value": "\"edgeEngine startup parameters Error\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-mimoe\/EdgeEngine\/Internal\/EdgeClient+Background.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1940,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-mimoe\/EdgeEngine\/Internal\/EdgeClient+Background.swift",
+      "kind": "StringLiteral",
+      "offset": 1997,
+      "length": 29,
+      "value": "\"didBecomeActiveNotification\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-mimoe\/EdgeEngine\/Internal\/EdgeClient+Background.swift",
+      "kind": "StringLiteral",
+      "offset": 2048,
+      "length": 40,
+      "value": "\"edgeEngine startup already in progress\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-mimoe\/EdgeEngine\/Internal\/EdgeClient+Background.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2303,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-mimoe\/EdgeEngine\/Internal\/EdgeClient+Background.swift",
+      "kind": "StringLiteral",
+      "offset": 2334,
+      "length": 29,
+      "value": "\"didBecomeActiveNotification\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-mimoe\/EdgeEngine\/Internal\/EdgeClient+Background.swift",
+      "kind": "StringLiteral",
+      "offset": 2385,
+      "length": 20,
+      "value": "\"edgeEngine startup\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-mimoe\/EdgeEngine\/Internal\/EdgeClient+Background.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2422,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-mimoe\/EdgeEngine\/Internal\/EdgeClient+Background.swift",
+      "kind": "StringLiteral",
+      "offset": 2426,
+      "length": 12,
+      "value": "\"successful\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-mimoe\/EdgeEngine\/Internal\/EdgeClient+Background.swift",
+      "kind": "StringLiteral",
+      "offset": 2441,
+      "length": 7,
+      "value": "\"error\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-mimoe\/EdgeEngine\/Internal\/EdgeClient+Background.swift",
+      "kind": "StringLiteral",
+      "offset": 2450,
+      "length": 16,
+      "value": "\", startupCode:\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-mimoe\/EdgeEngine\/Internal\/EdgeClient+Background.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2483,
+      "length": 3,
+      "value": "-42"
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-mimoe\/EdgeEngine\/Internal\/EdgeClient+Background.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2552,
+      "length": 13,
+      "value": "2000000000"
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-mimoe\/EdgeEngine\/Internal\/EdgeClient+Background.swift",
+      "kind": "StringLiteral",
+      "offset": 3077,
+      "length": 8,
+      "value": "\"Error:\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-mimoe\/EdgeEngine\/Internal\/EdgeClient+Port.swift",
+      "kind": "StringLiteral",
+      "offset": 425,
+      "length": 23,
+      "value": "\"Success (already set)\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-mimoe\/EdgeEngine\/Internal\/EdgeClient+Port.swift",
+      "kind": "BooleanLiteral",
+      "offset": 555,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-mimoe\/EdgeEngine\/Internal\/EdgeClient+Port.swift",
+      "kind": "StringLiteral",
+      "offset": 645,
+      "length": 33,
+      "value": "\"Unable to establish a lock file\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-mimoe\/EdgeEngine\/Internal\/EdgeClient+Port.swift",
+      "kind": "StringLiteral",
+      "offset": 745,
+      "length": 33,
+      "value": "\"Unable to establish a lock file\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-mimoe\/EdgeEngine\/Internal\/EdgeClient+Port.swift",
+      "kind": "IntegerLiteral",
+      "offset": 786,
+      "length": 3,
+      "value": "500"
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-mimoe\/EdgeEngine\/Internal\/EdgeClient+Port.swift",
+      "kind": "StringLiteral",
+      "offset": 938,
+      "length": 9,
+      "value": "\"Success\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-mimoe\/EdgeEngine\/Internal\/EdgeClient+Port.swift",
+      "kind": "StringLiteral",
+      "offset": 2275,
+      "length": 15,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-mimoe\/EdgeEngine\/Internal\/EdgeClient+Port.swift",
+      "kind": "StringLiteral",
+      "offset": 2289,
+      "length": 1,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-mimoe\/EdgeEngine\/Internal\/EdgeClient+Port.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2512,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-mimoe\/EdgeEngine\/Internal\/EdgeClient+Port.swift",
+      "kind": "StringLiteral",
+      "offset": 2626,
+      "length": 39,
+      "value": "\"Locking edgeEngine to a service link:\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-mimoe\/EdgeEngine\/Internal\/EdgeClient+Port.swift",
+      "kind": "StringLiteral",
+      "offset": 3919,
+      "length": 34,
+      "value": "\"edgeEngineWorkingDirectory Error\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-mimoe\/EdgeEngine\/Internal\/EdgeClient+Port.swift",
+      "kind": "BooleanLiteral",
+      "offset": 3995,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-mimoe\/EdgeEngine\/Internal\/EdgeClient+Port.swift",
+      "kind": "StringLiteral",
+      "offset": 4188,
+      "length": 38,
+      "value": "\"edgeEngine working directory removed\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-mimoe\/EdgeEngine\/Internal\/EdgeClient+Port.swift",
+      "kind": "BooleanLiteral",
+      "offset": 4268,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-mimoe\/EdgeEngine\/Internal\/EdgeClient+Port.swift",
+      "kind": "StringLiteral",
+      "offset": 4369,
+      "length": 45,
+      "value": "\"Error removing edgeEngine working directory\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-mimoe\/EdgeEngine\/Internal\/EdgeClient+Port.swift",
+      "kind": "BooleanLiteral",
+      "offset": 4456,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-mimoe\/EdgeEngine\/Internal\/EdgeClient+Port.swift",
+      "kind": "StringLiteral",
+      "offset": 4760,
+      "length": 46,
+      "value": "\"Unable to establish jsonRpcApiKeyLockFileUrl\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-mimoe\/EdgeEngine\/Internal\/EdgeClient+Port.swift",
+      "kind": "StringLiteral",
+      "offset": 5359,
+      "length": 34,
+      "value": "\"edgeEngineWorkingDirectory Error\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-mimoe\/EdgeEngine\/Internal\/EdgeClient+Port.swift",
+      "kind": "StringLiteral",
+      "offset": 5510,
+      "length": 22,
+      "value": "\"\/.jsonRpcApiKey.lock\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-mimoe\/EdgeEngine\/Internal\/EdgeClient+Port.swift",
+      "kind": "StringLiteral",
+      "offset": 5881,
+      "length": 36,
+      "value": "\"Error locking a new jsonRpcApiKey:\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-mimoe\/EdgeEngine\/Internal\/EdgeClient+Port.swift",
+      "kind": "BooleanLiteral",
+      "offset": 6078,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-mimoe\/EdgeEngine\/Internal\/EdgeClient+Port.swift",
+      "kind": "StringLiteral",
+      "offset": 6192,
+      "length": 30,
+      "value": "\"Locking a new jsonRpcApiKey:\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-mimoe\/EdgeEngine\/Internal\/EdgeClient+Port.swift",
+      "kind": "StringLiteral",
+      "offset": 6409,
+      "length": 36,
+      "value": "\"Error locking a new jsonRpcApiKey:\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-mimoe\/EdgeEngine\/Internal\/EdgeClient+ManageRuntime.swift",
+      "kind": "StringLiteral",
+      "offset": 448,
+      "length": 28,
+      "value": "\"mimik Client Library Error\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-mimoe\/EdgeEngine\/Internal\/EdgeClient+ManageRuntime.swift",
+      "kind": "StringLiteral",
+      "offset": 543,
+      "length": 28,
+      "value": "\"mimik Client Library Error\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-mimoe\/EdgeEngine\/Internal\/EdgeClient+ManageRuntime.swift",
+      "kind": "IntegerLiteral",
+      "offset": 579,
+      "length": 3,
+      "value": "500"
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-mimoe\/EdgeEngine\/Internal\/EdgeClient+ManageRuntime.swift",
+      "kind": "StringLiteral",
+      "offset": 693,
+      "length": 123,
+      "value": "\"mimik Client Library will manage edgeEngine Runtime lifecycle automatically, based on application lifecycle notifications\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-mimoe\/EdgeEngine\/Internal\/EdgeClient+ManageRuntime.swift",
+      "kind": "StringLiteral",
+      "offset": 1096,
+      "length": 28,
+      "value": "\"mimik Client Library Error\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-mimoe\/EdgeEngine\/Internal\/EdgeClient+ManageRuntime.swift",
+      "kind": "StringLiteral",
+      "offset": 1195,
+      "length": 28,
+      "value": "\"mimik Client Library Error\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-mimoe\/EdgeEngine\/Internal\/EdgeClient+ManageRuntime.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1231,
+      "length": 3,
+      "value": "500"
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-mimoe\/EdgeEngine\/Internal\/EdgeClient+ManageRuntime.swift",
+      "kind": "StringLiteral",
+      "offset": 1378,
+      "length": 64,
+      "value": "\"mimik Client Library won't manage edgeEngine Runtime lifecycle\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-mimoe\/EdgeEngine\/Internal\/EdgeClient+ManageRuntime.swift",
+      "kind": "StringLiteral",
+      "offset": 1696,
+      "length": 36,
+      "value": "\"Unable to remove managed lock file\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-mimoe\/EdgeEngine\/Internal\/EdgeClient+ManageRuntime.swift",
+      "kind": "StringLiteral",
+      "offset": 1803,
+      "length": 28,
+      "value": "\"mimik Client Library Error\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-mimoe\/EdgeEngine\/Internal\/EdgeClient+ManageRuntime.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1839,
+      "length": 3,
+      "value": "500"
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-mimoe\/EdgeEngine\/Internal\/EdgeClient+ManageRuntime.swift",
+      "kind": "StringLiteral",
+      "offset": 2129,
+      "length": 28,
+      "value": "\"mimik Client Library Error\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-mimoe\/EdgeEngine\/Internal\/EdgeClient+ManageRuntime.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2199,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-mimoe\/EdgeEngine\/Internal\/EdgeClient+ManageRuntime.swift",
+      "kind": "StringLiteral",
+      "offset": 2534,
+      "length": 34,
+      "value": "\"edgeEngineWorkingDirectory Error\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-mimoe\/EdgeEngine\/Internal\/EdgeClient+ManageRuntime.swift",
+      "kind": "StringLiteral",
+      "offset": 2651,
+      "length": 34,
+      "value": "\"\/.edgeEngineShouldKeepAlive.lock\""
+    },
+    {
+      "filePath": "\/Users\/rb\/Code\/client-libraries\/ios-mimoe\/EdgeEngine\/Internal\/EdgeClient+ManageRuntime.swift",
+      "kind": "StringLiteral",
+      "offset": 2785,
+      "length": 38,
+      "value": "\"\/.edgeEngineShouldManageRuntime.lock\""
     }
   ]
 }
